@@ -1,0 +1,8 @@
+Katie Allen,555-1234,kAllen@douglascollege.ca
+Jill Ammons,555-5678,jammons@douglascollege.ca
+Kevin Brown,555-9012,kbrown@douglascollege.ca
+Elisa Garcia,555-3456,egarcia@douglascollege.ca
+Jeff Jenkins,555-7890,jjenkin@douglascollege.ca
+Leo Killian,555-1122,lkillian@douglascollege.ca
+Marcia Potemkin,555-3344,mpotemkin@douglascollege.ca
+Kelsey Rose,555-5566,krose@douglascollege.ca
